@@ -50,5 +50,3 @@ class Basket:
             int(self.x - self.width / 2), int(self.y - self.height / 2),
             self.width, self.height,
         )
-
-        
